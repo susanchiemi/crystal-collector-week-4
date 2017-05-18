@@ -1,0 +1,17 @@
+body {
+ background-image: url("Crystal-BG.jpg");
+
+ }
+
+.btn-default {
+    border-color: #FFFFFF;
+}
+
+.jumbotron {
+    background-color: #0090B5;
+    color: #eee;
+}
+
+ .btn-default img {
+    max-width: 95%;
+}
